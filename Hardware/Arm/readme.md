@@ -1,23 +1,37 @@
-# robot arm
+# Robot Arm
 
 
-#### **description**
-In smart ware house system.The arm pick and insert good.  
+![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/testing/video2.gif?raw=true)
 
-#### **component**
-    1.MG90S SERVER MOTOR
+#### **Description**
+The function of the robot arm is to pick goods from the shelves in the warehouse and load them on the delivery robot for transportation. Further they are once again used to unload the goods from the delivery bots at the delivery station.
+
+#### **Components used**
+    1.MG996r SERVER MOTOR
     2.ESP12
-    3.Acrylic
+    3.Aluminium
+    4.nema17
     
+![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/testing/video4.gif?raw=true)
    
-### **Circuit diagram**   
+### **architecture**
 
- ![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/circuit%20diagram/Schematic_emb_3y_project_2020-11-04_04-20-50.png?raw=true)
+![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/arch_software.png?raw=true)
 
-### **PCB**
 
- ![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/circuit%20diagram/PCB_PCB_2020-11-04_03-30-44_2020-11-04_06-34-09.png?raw=true)
+### **Circuit Diagram**   
 
-### **testing**
+ ![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/circuit/Schematic_V2.png?raw=true)
 
-[![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/testing/gripper/20201105_095757.jpg?raw=true)](https://youtu.be/aFNMJLarVNU)
+### **PCB Layout**
+
+ ![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/circuit/testing_PCB.png?raw=true)
+
+### **Testing **
+
+[![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/circuit/face.jpg?raw=true)]
+
+[![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/circuit/testing/gripper/raer.jpg?raw=true)]
+
+![alt text](https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing/blob/main/Hardware/Arm/testing/video3.gif?raw=true)
+
